@@ -7,3 +7,4 @@ I built this using Visual Studio 2022, which provides templates. A lot of the he
 
 Files ending in .cshtml are razor pages — a mix of HTML and C# logic.
 Files ending in .cshtml.css is a companion stylesheet for that razor page.
+Based on HTTP input, the controller acts using model/data.
